@@ -1,0 +1,15 @@
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/OOP_Part1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/OOP_Part1.AssemblyInfoInputs.cache
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/OOP_Part1.AssemblyInfo.cs
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/OOP_Part1.csproj.CoreCompileInputs.cache
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/OOP_Part1.sourcelink.json
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/bin/Debug/net9.0/OOP_Part1
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/bin/Debug/net9.0/OOP_Part1.deps.json
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/bin/Debug/net9.0/OOP_Part1.runtimeconfig.json
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/bin/Debug/net9.0/OOP_Part1.dll
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/bin/Debug/net9.0/OOP_Part1.pdb
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/OOP_Part1.dll
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/refint/OOP_Part1.dll
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/OOP_Part1.pdb
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/OOP_Part1.genruntimeconfig.cache
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/OOP_Part1/obj/Debug/net9.0/ref/OOP_Part1.dll

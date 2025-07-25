@@ -1,0 +1,15 @@
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/bin/Debug/net9.0/Searching_Algorithms
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/bin/Debug/net9.0/Searching_Algorithms.deps.json
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/bin/Debug/net9.0/Searching_Algorithms.runtimeconfig.json
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/bin/Debug/net9.0/Searching_Algorithms.dll
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/bin/Debug/net9.0/Searching_Algorithms.pdb
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/Searching_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/Searching_Algorithms.AssemblyInfoInputs.cache
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/Searching_Algorithms.AssemblyInfo.cs
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/Searching_Algorithms.csproj.CoreCompileInputs.cache
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/Searching_Algorithms.sourcelink.json
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/Searching_Algorithms.dll
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/refint/Searching_Algorithms.dll
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/Searching_Algorithms.pdb
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/Searching_Algorithms.genruntimeconfig.cache
+/Users/jacobwright/Library/Mobile Documents/com~apple~CloudDocs/GitHub/CSharp/CwK_CSharp/Searching_Algorithms/obj/Debug/net9.0/ref/Searching_Algorithms.dll
