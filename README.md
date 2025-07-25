@@ -1,2 +1,2 @@
-# CwK_C-_DataStructures_Algorithms
-Cwk Summer camp on Data Structures and Algorithms
+# CwK_CSharp
+Cwk summer camp on Data Structures and Algorithms
